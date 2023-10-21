@@ -1,4 +1,4 @@
-getgenv().config = getgenv().config or {
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Destroy%20Particle%20Emitters",true))()getgenv().config = getgenv().config or {
     hit_time = 0.3, -- // recommended 0.25 to 0.75 \ --
 
     mode = 'Always', -- // Hold , Toggle , Always \ --
@@ -118,4 +118,4 @@ if not getgenv().exeSpam then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
 end
 
-getgenv().exeSpam = trueloadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Destroy%20Particle%20Emitters",true))()
+getgenv().exeSpam = true
