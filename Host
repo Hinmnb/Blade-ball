@@ -52,47 +52,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/ma
     keybind = Enum.KeyCode.V
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3ABlade%20Ball%20Parry%20V4.0.0",true))()getgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Script by Hosvile",
-	Text = "Hold Block button to Spam",
-	Duration = 1
-})
-
-getgenv().SpamSpeed = 1 -- 1-25
-
-if not getgenv().exeSpam then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
-endgetgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Script by Hosvile",
-	Text = "Hold Block button to Spam",
-	Duration = 1
-})
-
-getgenv().SpamSpeed = 1 -- 1-25
-
-if not getgenv().exeSpam then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
-endgetgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Script by Hosvile",
-	Text = "Hold Block button to Spam",
-	Duration = 1
-})
-
-getgenv().SpamSpeed = 1 -- 1-25
-
-if not getgenv().exeSpam then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
-endgetgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Script by Hosvile",
-	Text = "Hold Block button to Spam",
-	Duration = 1
-})
-
-getgenv().SpamSpeed = 1 -- 1-25
-
-if not getgenv().exeSpam then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
-endgetgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3ABlade%20Ball%20Parry%20V4.0.0",true))()game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Script by Hosvile",
 	Text = "Hold Block button to Spam",
 	Duration = 1
@@ -103,3 +63,53 @@ getgenv().SpamSpeed = 1 -- 1-25
 if not getgenv().exeSpam then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
 end
+
+getgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Script by Hosvile",
+	Text = "Hold Block button to Spam",
+	Duration = 1
+})
+
+getgenv().SpamSpeed = 1 -- 1-25
+
+if not getgenv().exeSpam then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
+end
+
+getgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Script by Hosvile",
+	Text = "Hold Block button to Spam",
+	Duration = 1
+})
+
+getgenv().SpamSpeed = 1 -- 1-25
+
+if not getgenv().exeSpam then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
+end
+
+getgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Script by Hosvile",
+	Text = "Hold Block button to Spam",
+	Duration = 1
+})
+
+getgenv().SpamSpeed = 1 -- 1-25
+
+if not getgenv().exeSpam then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
+end
+
+getgenv().exeSpam = truegame:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Script by Hosvile",
+	Text = "Hold Block button to Spam",
+	Duration = 1
+})
+
+getgenv().SpamSpeed = 1 -- 1-25
+
+if not getgenv().exeSpam then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/Toggle%20Block%20Spam",true))()
+end
+
+getgenv().exeSpam = true
